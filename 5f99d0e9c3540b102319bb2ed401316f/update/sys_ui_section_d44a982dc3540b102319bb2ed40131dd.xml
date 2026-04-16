@@ -4,13 +4,69 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-16 17:13:35</sys_created_on>
-            <sys_id>d04ad82dc3540b102319bb2ed401317a</sys_id>
+            <sys_created_on>2026-04-16 17:46:39</sys_created_on>
+            <sys_id>bcd1ac2dc3940b102319bb2ed4013127</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1756580_lista_0_item_de_desejo" sys_domain="global" view="Default view">d44a982dc3540b102319bb2ed40131dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-16 17:13:35</sys_updated_on>
+            <sys_updated_on>2026-04-16 17:46:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>solicitado_por</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-16 17:46:39</sys_created_on>
+            <sys_id>74d1ac2dc3940b102319bb2ed4013129</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1756580_lista_0_item_de_desejo" sys_domain="global" view="Default view">d44a982dc3540b102319bb2ed40131dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-16 17:46:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-16 17:46:39</sys_created_on>
+            <sys_id>f0d1ac2dc3940b102319bb2ed401312a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1756580_lista_0_item_de_desejo" sys_domain="global" view="Default view">d44a982dc3540b102319bb2ed40131dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-16 17:46:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-16 17:46:39</sys_created_on>
+            <sys_id>70d1ac2dc3940b102319bb2ed401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1756580_lista_0_item_de_desejo" sys_domain="global" view="Default view">d44a982dc3540b102319bb2ed40131dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-16 17:46:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantidade</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-16 17:46:39</sys_created_on>
+            <sys_id>fcd1ac2dc3940b102319bb2ed401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1756580_lista_0_item_de_desejo" sys_domain="global" view="Default view">d44a982dc3540b102319bb2ed40131dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-16 17:46:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
