@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6b3a982dc3540b102319bb2ed40131ae" label="Item de Desejo" max_length="40" name="x_1756580_lista_0_item_de_desejo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Nome de exibição" max_length="300" name="nome_exibicao" read_only="true" type="string"/>
         <element display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
         <element label="Solicitado por" mandatory="true" max_length="32" name="solicitado_por" reference="sys_user" type="reference"/>
         <element label="URL" max_length="1024" name="url" type="url"/>
